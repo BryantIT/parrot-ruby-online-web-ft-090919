@@ -1,7 +1,6 @@
 def parrot
-  puts "Squawk!"
-  "Squawk!"
-  phrase= "Pretty bird!"
+  puts phrase
   phrase
+  
 end
 
